@@ -8,7 +8,7 @@
 
 ## Languages and Tools
 
-![Swift](https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-1575F9?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ![CocoaPods](https://img.shields.io/badge/CocoaPods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white)
