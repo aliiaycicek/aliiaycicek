@@ -14,11 +14,6 @@
 ![CocoaPods](https://img.shields.io/badge/CocoaPods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical)
-
 ## Recent Projects
 
 - [Pika Game Project](https://github.com/aliiaycicek/PikaGame-Project) - This project is a simple mobile game project where users earn points against the clock by clicking.
