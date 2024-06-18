@@ -8,7 +8,7 @@
 
 ## Languages and Tools
 
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Swift]<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/swift.png" width="40" height="40"/>
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
 ![CocoaPods](https://img.shields.io/badge/CocoaPods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white)
