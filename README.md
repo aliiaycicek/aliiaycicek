@@ -1,4 +1,4 @@
-[![MasterHead](https://w0.peakpx.com/wallpaper/119/53/HD-wallpaper-swift-logo-white-silk-texture-swift-emblem-programming-language-swift-silk-background.jpg)
+
 <h1 align="center">Hi 👋, I'm Ali Ayçiçek</h1>
 <h3 align="center">A passionate Ios Developer from Turkey</h3>
 
