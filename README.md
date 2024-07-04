@@ -1,8 +1,6 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-krlgk&psig=AOvVaw3UjWXgxff6ajUjGvANRkh9&ust=1720215013344000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNivx7mqjocDFQAAAAAdAAAAABAE)
+[![MasterHead](https://w0.peakpx.com/wallpaper/119/53/HD-wallpaper-swift-logo-white-silk-texture-swift-emblem-programming-language-swift-silk-background.jpg)
 <h1 align="center">Hi 👋, I'm Ali Ayçiçek</h1>
 <h3 align="center">A passionate Ios Developer from Turkey</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliiaycicek" alt="aliiaycicek" /></a> </p>
 
 - 🔭 I’m currently working on [Pika Game Project](https://github.com/aliiaycicek/PikaGame-Project)
 
@@ -22,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliiaycicek&show_icons=true&locale=en" alt="aliiaycicek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliiaycicek&" alt="aliiaycicek" /></p>
+
