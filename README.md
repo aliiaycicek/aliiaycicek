@@ -1,33 +1,24 @@
-# Hi there, I'm Ali 👋
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.peakpx.com%2Fen%2Fhd-wallpaper-desktop-krlgk&psig=AOvVaw3UjWXgxff6ajUjGvANRkh9&ust=1720215013344000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNivx7mqjocDFQAAAAAdAAAAABAE)
+<h1 align="center">Hi 👋, I'm Ali Ayçiçek</h1>
+<h3 align="center">A passionate Ios Developer from Turkey</h3>
 
-## About Me
-- 🧠 Currently working on Swift and SwiftUI
-- 👯 Looking to collaborate on open-source iOS projects
-- 🤔 Seeking help with iOS app development
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aliiaycicek/) | [Twitter(X)](https://x.com/aliiaycicek)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliiaycicek" alt="aliiaycicek" /></a> </p>
 
-## Languages and Tools
+- 🔭 I’m currently working on [Pika Game Project](https://github.com/aliiaycicek/PikaGame-Project)
 
-![Swift](https://img.shields.io/badge/Swift-1575F9?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-![CocoaPods](https://img.shields.io/badge/CocoaPods-FA2A02?style=for-the-badge&logo=cocoapods&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 🌱 I’m currently learning **SwiftUI**
 
-## Recent Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/aliiaycicek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aliiaycicek" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aliiaycicek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aliiaycicek/" height="30" width="40" /></a>
+</p>
 
-- [Pika Game Project](https://github.com/aliiaycicek/PikaGame-Project) - This project is a simple mobile game project where users earn points against the clock by clicking.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-## Contact
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliiaycicek&show_icons=true&locale=en&layout=compact" alt="aliiaycicek" /></p>
 
-- LinkedIn: [linkedin.com/in/aliiaycicek](https://www.linkedin.com/in/aliiaycicek/)
-- Twitter: [x.com/aliiaycicek](https://x.com/aliiaycicek)
-- Email: aliaycicek_7010@hotmail.com
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliiaycicek&show_icons=true&locale=en" alt="aliiaycicek" /></p>
 
-## Goals
-
-- 🚀 To become an expert in iOS development and complete more projects
-- 📱 To publish my own apps on the App Store
-- 👨‍🏫 To create content teaching others about Swift and SwiftUI
-
-Thank you! Feel free to reach out to me.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aliiaycicek&" alt="aliiaycicek" /></p>
