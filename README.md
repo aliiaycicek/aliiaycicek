@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Ali Ayçiçek</h1>
 <h3 align="center">A passionate Ios Developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Pika Game Project](https://github.com/aliiaycicek/PikaGame-Project)
+-  I’m currently working on [Pika Game Project](https://github.com/aliiaycicek/PikaGame-Project)
 
-- 🌱 I’m currently learning **SwiftUI**
+-  I’m currently learning **SwiftUI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
