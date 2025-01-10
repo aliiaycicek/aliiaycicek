@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ali Ayçiçek</h1>
 <h3 align="center">A passionate IOS Developer from Turkey</h3>
 
--  I’m currently working on [Pika Game Project](https://github.com/aliiaycicek/PikaGame-Project)
+-  I’m currently working on [Pika Game Project](https://github.com/aliiaycicek/PikaGame-Project) and [Foodies]
 
 -  I’m currently learning **SwiftUI**
 
